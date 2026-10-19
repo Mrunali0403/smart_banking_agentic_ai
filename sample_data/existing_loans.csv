@@ -1,0 +1,3 @@
+loan_id,customer_id,loan_type,loan_amount,status,outstanding_balance,monthly_emi
+LN-SAMPLE-001,CUS-SAMPLE-001,Personal,150000.00,Active,72000.00,5500.00
+LN-SAMPLE-002,CUS-SAMPLE-002,Education,300000.00,Closed,0.00,7500.00
